@@ -1,0 +1,45 @@
+.badge {
+    display: inline-block;
+    padding: .25em .4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+.badge-pill {
+    padding-right: .6em;
+    padding-left: .6em;
+    border-radius: 10rem;
+}
+.badge-c {
+    color: #fff;
+    background-color: #ff3b30;
+}
+
+.badge-python {
+    color: #fff;
+    background-color: #ff9500;
+}
+.badge-php {
+    color: #fff;
+    background-color: #ffcc00;
+}
+.badge-html {
+    color: #fff;
+    background-color: #4cd964;
+}
+.badge-javascript {
+    color: #fff;
+    background-color: #5ac8fa;
+}
+.badge-java {
+    color: #fff;
+    background-color: #007aff;
+}
+.badge-android {
+    color: #fff;
+    background-color: #5860d6;
+}
